@@ -53,3 +53,13 @@ python app.py
 ## Usage
 Movie recommendations use algorithms to suggest films you might enjoy. They consider factors like genre, popularity, Type and Overview suggestions. These recommendations help users discover new movies they may not have found otherwise, enhancing their viewing experience. personalized movie recommendations have become integral to entertainment consumption
 ## Demo
+Video is in Output Folder. Download it and use it.
+
+### Output - 1
+![Output - 1](https://github.com/Karanchrish/Movie-Recommendation_1/assets/124337511/417a7243-1284-44a5-98ed-a83224680366)
+
+### Output - 2
+![Output - 2](https://github.com/Karanchrish/Movie-Recommendation_1/assets/124337511/15bd35ee-74f7-495d-bdb0-6ead196aa2ef)
+
+### Output - 3
+![Output - 3](https://github.com/Karanchrish/Movie-Recommendation_1/assets/124337511/0ae22a89-7ab3-40de-b221-0fa6273ae16f)
