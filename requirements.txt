@@ -1,5 +1,6 @@
 requests
 scikit-learn
+pandas
 flask
 fuzzywuzzy
 googletrans==4.0.0-rc1
