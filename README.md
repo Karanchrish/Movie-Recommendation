@@ -38,13 +38,18 @@ This project utilizes The Movie Database (TMDB) API to fetch movie data and reco
 
 ```bash
 git clone https://github.com/your-username/movie-recommendation.git
-
+```
 2. Install the required dependencies:
 
 ```bash
 pip install -r requirements.txt
-
+```
 3. Run the APP:
 
 ```bash
 python app.py
+```
+
+## Usage
+
+## Demo
