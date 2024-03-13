@@ -51,5 +51,5 @@ python app.py
 ```
 
 ## Usage
-
+Movie recommendations use algorithms to suggest films you might enjoy. They consider factors like genre, popularity, Type and Overview suggestions. These recommendations help users discover new movies they may not have found otherwise, enhancing their viewing experience. personalized movie recommendations have become integral to entertainment consumption
 ## Demo
