@@ -6,7 +6,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.feature_extraction.text import CountVectorizer
 
 base_url = "https://api.themoviedb.org/3/trending/all/day"
-api_key = "f6184130512e5aac9fde913557051479"
+api_key = "f6******************************"
 
 def fetch_data(page=1):
     params = {
